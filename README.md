@@ -1,1 +1,3 @@
 # Image-Cryptography-using-RSA-and-AES-Algorithm
+
+Computer Networking is all about the different computer Networks that are connected for communication. Whenever this communication happens, the most important thing to consider is if the information/data being shared is safe. Considering the exchange of data, images also play a vital role in this communication. It is important to encrypt the images well so that no intruder and access or manipulate the data. Many algorithms are focusing on the encryption and decryption of text but here in this project, our motive is to do Image cryptography using two famous algorithms (RSA and AES). In this paper, we have implemented both of these algorithms on images and drawn some interesting analyses about their working.
